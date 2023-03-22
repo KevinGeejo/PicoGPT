@@ -1,2 +1,2 @@
-# rakGPT
-a miniature model of the popular ChatGPT
+# PicoGPT
+a miniature version of the popular ChatGPT using the Transformer Model
